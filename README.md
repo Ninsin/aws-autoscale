@@ -187,4 +187,4 @@ If you stop or terminate the instance on which CPU usage has been simulated, ins
 ![](images/Screenshot%202023-09-04%20132839.png)
 
 ## Conclusion
-You have built a load-balanced and highly available web application that auto-scales out based on a target of CPU utilization. 
+By following these steps, you'll have a load-balanced web server with auto-scaling capabilities on AWS. This setup ensures that your web application can handle varying levels of traffic efficiently, and additional instances are added or removed automatically based on your defined scaling policies and health checks. Make sure to regularly fine-tune your configuration to optimize resource usage and cost. 
