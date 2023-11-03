@@ -1,4 +1,4 @@
-# **Create a load-balanced web server with auto-scaling**
+# **Create a load-balancing web server with auto-scaling**
 
 ## Overview
 This tutorial walks you through the process of creating a web server which an auto-scaling group manages. The auto-scaling group uses a launch template to create the servers. The auto-scaling group launches the servers into a target group. An internet-facing load balancer directs traffic to the target group. 
